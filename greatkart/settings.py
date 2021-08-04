@@ -149,6 +149,6 @@ MESSAGE_TAGS = {
 
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
-EMAIL_HOST_USER='dkazi1996@gmail.com'
-EMAIL_HOST_PASSWORD='mathinakazi1'
+EMAIL_HOST_USER='***@gmail.com'
+EMAIL_HOST_PASSWORD='***'
 EMAIL_USE_TLS = True
